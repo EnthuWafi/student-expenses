@@ -1,0 +1,73 @@
+Timestamp,"Gender
+
+Jantina","Year of study
+
+Tahun pengajian","Level of study
+
+Peringkat pengajian","Field of study
+
+Bidang pengajian
+","Living arrangement
+
+Tempat tinggal","Do you receive any scholarship or financial aid?
+
+Adakah anda menerima biasiswa atau bantuan kewangan?","Do you have a student loan (e.g., PTPTN)
+
+Adakah anda mempunyai hutang pelajar?  (cth., PTPTN)","How much total allowance do you receive from parents/guardians per month (RM)?
+
+Berapa jumlah elaun yang anda terima daripada ibu bapa/penjaga setiap bulan (RM)?","Do you work part-time?
+
+Adakah anda bekerja sambilan?","If you have a part-time job, how much do you earn per month (RM)? (If none, enter 0)
+
+Jika anda bekerja sambilan, berapa pendapatan anda setiap bulan (RM)? (Jika tiada, masukkan 0)","Do you have your own laptop?
+
+Adakah anda mempunyai komputer riba sendiri?","How often do you eat outside (restaurants/cafes)?
+
+Seberapa kerap anda makan di luar (restoran/kafe)?","How often do you shop for non-essential items (new clothes, gadgets, etc.)?
+
+Berapa kerap anda membeli-belah untuk barangan bukan keperluan (pakaian baru, gajet, dan lain-lain)?","Do you track or record your expenses regularly?
+
+Adakah anda merekod atau menjejak perbelanjaan anda secara berkala?
+","Please rate your agreement with the following statement:
+""I am very conscious of my spending and try to control it.""
+
+Sila nilaikan persetujuan anda dengan pernyataan berikut: 
+""Saya sangat sedar tentang perbelanjaan saya dan cuba mengawalnya.""","How much do you spend on food each week (RM)?
+
+Berapa perbelanjaan makanan anda setiap minggu (RM)?","How much do you spend on transport each week (RM)?
+
+Berapa perbelanjaan pengangkutan anda setiap minggu (RM)?","What time period does your accommodation payment cover?
+
+Apakah tempoh masa yang meliputi bayaran penginapan anda?","How much do you pay for accommodation or hostel (RM)? (If you live with family and pay 0, please enter 0) *
+
+Berapa bayaran penginapan atau asrama anda (RM)?","How much do you spend on academic materials (books, printing, stationery) per month (RM)?
+
+Berapa perbelanjaan bahan akademik (buku, cetakan, alat tulis) anda setiap bulan (RM)?","How much do you spend on internet/phone bills per month (RM)?
+
+Berapa perbelanjaan bil internet/telefon anda setiap bulan (RM)?","What do you estimate your total monthly expense (RM)? 
+
+Berapa anggaran jumlah perbelanjaan bulanan anda (RM)? "
+11/15/2025 17:35:53,Male / Lelaki,Year 2 / Tahun 2,Diploma,Others / Lain-lain,With family / Tinggal bersama keluarga,Yes / Ya,No,0,Yes / Ya,360,Yes / Ya,Rarely (0–2 times/week) / Jarang (0–2 kali/minggu),Occasionally / Sekali-sekala,No / Tidak,4,6,5,I do not pay for accommodation / Saya tidak bayar untuk penginapan,0,10,60,80
+11/15/2025 17:41:06,Male / Lelaki,Year 3 / Tahun 3,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,On-campus hostel / Asrama dalam kampus,Yes / Ya,Yes,0,No / Tidak,0,Yes / Ya,Often (daily) / Kerap (setiap hari),Occasionally / Sekali-sekala,No / Tidak,5,70,0,One-time payment for the semester / Bayaran sekali untuk semester,420,5,20,500
+11/15/2025 17:42:52,Female / Perempuan,Year 2 / Tahun 2,Diploma,Others / Lain-lain,On-campus hostel / Asrama dalam kampus,No / Tidak,No,200,No / Tidak,0,Yes / Ya,Rarely (0–2 times/week) / Jarang (0–2 kali/minggu),Occasionally / Sekali-sekala,Yes / Ya,5,35,5,I do not pay for accommodation / Saya tidak bayar untuk penginapan,0,0,40,400
+11/15/2025 19:12:24,Male / Lelaki,Year 1 / Tahun 1,Diploma,Others / Lain-lain,On-campus hostel / Asrama dalam kampus,Yes / Ya,No,300,No / Tidak,0,Yes / Ya,Sometimes (3–6 times/week) / Kadang-kadang (3–6 kali/minggu),Rarely / Jarang,Yes / Ya,5,20,10,I do not pay for accommodation / Saya tidak bayar untuk penginapan,0,50,35,400
+11/18/2025 10:22:32,Female / Perempuan,Year 3 / Tahun 3,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,Off-campus rented house / Rumah sewa luar kampus,No / Tidak,No,500,No / Tidak,0,Yes / Ya,Rarely (0–2 times/week) / Jarang (0–2 kali/minggu),Occasionally / Sekali-sekala,No / Tidak,4,100,50,I do not pay for accommodation / Saya tidak bayar untuk penginapan,300,50,0,500
+11/18/2025 10:23:18,Male / Lelaki,Year 3 / Tahun 3,Bachelor's Degree / Ijazah Sarjana Muda,Others / Lain-lain,Off-campus rented house / Rumah sewa luar kampus,No / Tidak,Yes,200,No / Tidak,0,Yes / Ya,Rarely (0–2 times/week) / Jarang (0–2 kali/minggu),Occasionally / Sekali-sekala,No / Tidak,4,150,50,Monthly payment / Bayaran bulanan,0,30,60,500
+11/18/2025 10:25:29,Male / Lelaki,Year 3 / Tahun 3,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,Off-campus rented house / Rumah sewa luar kampus,No / Tidak,Yes,200,Yes / Ya,500,Yes / Ya,Sometimes (3–6 times/week) / Kadang-kadang (3–6 kali/minggu),Rarely / Jarang,Yes / Ya,5,105,6,Monthly payment / Bayaran bulanan,300,25,50,500
+11/18/2025 12:19:54,Male / Lelaki,Year 2 / Tahun 2,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,On-campus hostel / Asrama dalam kampus,No / Tidak,Yes,150,No / Tidak,0,Yes / Ya,Sometimes (3–6 times/week) / Kadang-kadang (3–6 kali/minggu),Rarely / Jarang,Yes / Ya,5,40,0,I do not pay for accommodation / Saya tidak bayar untuk penginapan,0,5,35,250
+11/18/2025 12:22:55,Male / Lelaki,Year 2 / Tahun 2,Bachelor's Degree / Ijazah Sarjana Muda,Others / Lain-lain,Off-campus rented house / Rumah sewa luar kampus,Yes / Ya,Yes,400,No / Tidak,0,Yes / Ya,Sometimes (3–6 times/week) / Kadang-kadang (3–6 kali/minggu),Rarely / Jarang,Yes / Ya,5,50,7,Monthly payment / Bayaran bulanan,330,100,60,700
+11/18/2025 12:24:06,Male / Lelaki,Year 2 / Tahun 2,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,On-campus hostel / Asrama dalam kampus,No / Tidak,Yes,250,No / Tidak,0,Yes / Ya,Often (daily) / Kerap (setiap hari),Occasionally / Sekali-sekala,Yes / Ya,5,70,0,One-time payment for the semester / Bayaran sekali untuk semester,420,100,50,400
+11/18/2025 12:32:34,Female / Perempuan,Year 4 or above / Tahun 4 atau ke atas,Diploma,Others / Lain-lain,On-campus hostel / Asrama dalam kampus,No / Tidak,No,250,Yes / Ya,500,Yes / Ya,Rarely (0–2 times/week) / Jarang (0–2 kali/minggu),Rarely / Jarang,Yes / Ya,5,50,0,One-time payment for the semester / Bayaran sekali untuk semester,250,280,35,360
+11/18/2025 12:43:40,Male / Lelaki,Year 2 / Tahun 2,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,Off-campus rented house / Rumah sewa luar kampus,No / Tidak,No,1000,No / Tidak,0,Yes / Ya,Often (daily) / Kerap (setiap hari),Occasionally / Sekali-sekala,Yes / Ya,4,100,8,Monthly payment / Bayaran bulanan,170,5,10,500
+11/18/2025 16:32:19,Female / Perempuan,Year 3 / Tahun 3,Diploma,Others / Lain-lain,On-campus hostel / Asrama dalam kampus,Yes / Ya,Yes,300,No / Tidak,0,Yes / Ya,Often (daily) / Kerap (setiap hari),Occasionally / Sekali-sekala,Yes / Ya,3,40,0,I do not pay for accommodation / Saya tidak bayar untuk penginapan,210,200,35,500
+12/2/2025 21:30:11,Male / Lelaki,Year 2 / Tahun 2,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,Off-campus rented house / Rumah sewa luar kampus,Yes / Ya,Yes,600,No / Tidak,0,Yes / Ya,Often (daily) / Kerap (setiap hari),Occasionally / Sekali-sekala,No / Tidak,5,200,20,Monthly payment / Bayaran bulanan,118,40,20,800
+12/12/2025 12:19:08,Male / Lelaki,Year 2 / Tahun 2,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,Off-campus rented house / Rumah sewa luar kampus,Yes / Ya,Yes,200,No / Tidak,0,Yes / Ya,Often (daily) / Kerap (setiap hari),Occasionally / Sekali-sekala,No / Tidak,4,60,40,Monthly payment / Bayaran bulanan,1000,20,30,350
+12/16/2025 0:54:18,Female / Perempuan,Year 4 or above / Tahun 4 atau ke atas,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,Off-campus rented house / Rumah sewa luar kampus,No / Tidak,Yes,500,No / Tidak,0,Yes / Ya,Sometimes (3–6 times/week) / Kadang-kadang (3–6 kali/minggu),Rarely / Jarang,No / Tidak,3,70,5,Monthly payment / Bayaran bulanan,160,10,0,500
+12/20/2025 23:00:18,Male / Lelaki,Year 4 or above / Tahun 4 atau ke atas,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,On-campus hostel / Asrama dalam kampus,No / Tidak,Yes,0,No / Tidak,0,Yes / Ya,Often (daily) / Kerap (setiap hari),Rarely / Jarang,Yes / Ya,5,70,0,One-time payment for the semester / Bayaran sekali untuk semester,420,3,18,500
+12/30/2025 20:47:40,Female / Perempuan,Year 4 or above / Tahun 4 atau ke atas,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,On-campus hostel / Asrama dalam kampus,Yes / Ya,No,500,No / Tidak,0,Yes / Ya,Sometimes (3–6 times/week) / Kadang-kadang (3–6 kali/minggu),Frequently / Kerap,No / Tidak,3,120,15,Monthly payment / Bayaran bulanan,300,25,35,500
+12/30/2025 21:06:57,Male / Lelaki,Year 1 / Tahun 1,Diploma,Computer Science / Sains Komputer,On-campus hostel / Asrama dalam kampus,Yes / Ya,Yes,300,Yes / Ya,300,Yes / Ya,Rarely (0–2 times/week) / Jarang (0–2 kali/minggu),Occasionally / Sekali-sekala,Yes / Ya,4,100,15,Monthly payment / Bayaran bulanan,200,20,30,400
+1/6/2026 10:28:56,Male / Lelaki,Year 3 / Tahun 3,Diploma,Agriculture / Pertanian,Off-campus rented house / Rumah sewa luar kampus,No / Tidak,Yes,400,No / Tidak,0,No / Tidak,Sometimes (3–6 times/week) / Kadang-kadang (3–6 kali/minggu),Occasionally / Sekali-sekala,No / Tidak,2,100,20,Monthly payment / Bayaran bulanan,120,10,50,600
+1/6/2026 11:34:49,Male / Lelaki,Year 3 / Tahun 3,PhD / Kedoktoran,Others / Lain-lain,With family / Tinggal bersama keluarga,Yes / Ya,No,0,Yes / Ya,1000,No / Tidak,Rarely (0–2 times/week) / Jarang (0–2 kali/minggu),Rarely / Jarang,No / Tidak,3,100,50,I do not pay for accommodation / Saya tidak bayar untuk penginapan,0,10,40,200
+1/6/2026 11:36:43,Male / Lelaki,Year 4 or above / Tahun 4 atau ke atas,Bachelor's Degree / Ijazah Sarjana Muda,Computer Science / Sains Komputer,Off-campus rented house / Rumah sewa luar kampus,No / Tidak,No,300,No / Tidak,0,Yes / Ya,Rarely (0–2 times/week) / Jarang (0–2 kali/minggu),Rarely / Jarang,No / Tidak,3,60,15,Monthly payment / Bayaran bulanan,250,20,50,250
+1/7/2026 10:48:46,Male / Lelaki,Year 3 / Tahun 3,Bachelor's Degree / Ijazah Sarjana Muda,Agriculture / Pertanian,Off-campus rented house / Rumah sewa luar kampus,No / Tidak,No,500,No / Tidak,0,No / Tidak,Often (daily) / Kerap (setiap hari),Frequently / Kerap,Yes / Ya,4,90,30,Monthly payment / Bayaran bulanan,120,20,40,600
+1/9/2026 9:35:20,Male / Lelaki,Year 2 / Tahun 2,Master's / Sarjana,Computer Science / Sains Komputer,With family / Tinggal bersama keluarga,No / Tidak,No,500,No / Tidak,0,Yes / Ya,Sometimes (3–6 times/week) / Kadang-kadang (3–6 kali/minggu),Occasionally / Sekali-sekala,No / Tidak,3,40,10,I do not pay for accommodation / Saya tidak bayar untuk penginapan,0,5,30,100
