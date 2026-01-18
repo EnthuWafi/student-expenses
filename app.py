@@ -24,9 +24,6 @@ with st.form("input_form"):
         # 1. Allowance
         allowance = st.number_input("Monthly Allowance from Parents/Guardians (RM)", min_value=0, value=300, step=50)
 
-        # 2. Income
-        income = st.number_input("Part-Time Income (RM)", min_value=0, value=0, step=50)
-
         # Living Arrangement
         living_options = ["With Family", "On-Campus Hostel", "Off-Campus Rental"]
         living = st.selectbox("Living Arrangement", living_options)
@@ -43,8 +40,6 @@ with st.form("input_form"):
 
     with col2:
 
-        scholarship = st.radio("Do you have a scholarship?", ["No", "Yes"])
-        scholarship_val = 1 if scholarship == "Yes" else 0
 
         # Laptop
         laptop = st.radio("Do you own a laptop?", ["No", "Yes"])
@@ -72,8 +67,6 @@ if submit:
         'Rental': is_rental,
         'EatOut': eat_val,
         'Laptop': laptop_val,
-        'PartTimeIncome': income,
-        'Scholarship': scholarship_val,
         'TrackExpenses': track_val,
         'Conscious': conscious
     }
