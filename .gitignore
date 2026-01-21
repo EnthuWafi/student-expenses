@@ -5,3 +5,8 @@ postprocess_4.png
 split_dataset_test.csv
 split_dataset_train.csv
 student_spending_model.pkl
+adv_categorical_1.png
+adv_categorical_2.png
+adv_categorical_3.png
+adv_categorical_4_replacement.png
+general_categorical.png
