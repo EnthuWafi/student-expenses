@@ -41,9 +41,6 @@ with st.form("input_form"):
     with col2:
 
 
-        # Laptop
-        laptop = st.radio("Do you own a laptop?", ["No", "Yes"])
-        laptop_val = 1 if laptop == "Yes" else 0
 
         # Tracking
         track = st.radio("Do you track expenses?", ["No", "Yes"])
@@ -66,7 +63,6 @@ if submit:
         'Hostel': is_hostel,
         'Rental': is_rental,
         'EatOut': eat_val,
-        'Laptop': laptop_val,
         'TrackExpenses': track_val,
         'Conscious': conscious
     }
